@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: 开始学习
-      link: /docs/start
+      link: /docs/name-files-1
     - theme: alt
       text: 关于
       link: /docs/about
