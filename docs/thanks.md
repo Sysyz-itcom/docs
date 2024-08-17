@@ -9,3 +9,5 @@ We would like to express our gratitude to the following organizations and indivi
 |Ovoeing|个人|编写文档、参与修改|
 |会走路的格子衫|个人|提出重要意见|
 |indomitable|个人|提出重要意见|
+|芜湖|个人|提出意见|
+|yizhixianyuuuu|个人|网站开发|
