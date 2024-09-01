@@ -1,5 +1,9 @@
 # 正确认识文件扩展名
 
+::: warning 内容有争议
+当前页面下的文章可能在部分内容上有争议，社团已经要求发布者进行修改并对争议信息进行处理，对于文章中有删除线的信息，请进行辨别。[社团如何处理争议信息？](https://sysyz-itcom.github.io/docs/docs/ref.html)
+:::
+
 发布者：Ovoeing
 
 ## 1.压缩包
@@ -13,11 +17,11 @@ zip，rar，7z，tar，gzip，bzip2，xz，ace，arj，cab，iso
 
 鸿蒙安装包：hap
 
-IOS安装包：ipa，deb，pxl
+IOS安装包：ipa，deb，~~pxl~~
 
 Windows安装包：exe，msi，appx，msix
 
-Mac安装包：dmg，pkg，iso，app，ipsw
+Mac安装包：dmg，pkg，iso，~~app~~，ipsw
 
 Linux安装包：rpm，deb，appimage，snap，flatpak
 
@@ -27,11 +31,11 @@ Linux安装包：rpm，deb，appimage，snap，flatpak
 
 视频格式:mp4，avi，wmv，mpeg，flv，mov，3gp，mkv，h.265，vp9，webm，m3u8
 
-音频格式:mp3，aac，ogg，flac，wav，alac，dsd，m4a，wma，aiff，cda，midi，opus
+音频格式:mp3，aac，ogg，flac，wav，alac，dsd，m4a，wma，aiff，~~cda~~，midi，opus
 
-图片格式:jpeg，png，bmp，gif，tiff，webp，svg，ram，psd，ico，heic，dng
+图片格式:jpeg，png，bmp，gif，tiff，webp，svg，~~ram~~，psd，ico，heic，dng
 
-文档数据交换格式:txt，pdf，doc/docx，odt，rtf，html，epub，xls/xlsx，ods，ppt/ppt，xodp，md，latex，csv，xml，json，yaml，asn.1，edi，wpd，mobi，azw
+文档数据交换格式:txt，pdf，doc/docx，odt，rtf，html，epub，xls/xlsx，ods，ppt/pptx，~~xodp~~，md，latex，csv，xml，json，yaml，asn.1，edi，wpd，mobi，azw
 
 值得注意的是，一部分文件格式可以互相转换或者单向转换
 
