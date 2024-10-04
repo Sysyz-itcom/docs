@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "SYSYZ-ITCOM Docs"
-  text: "邵阳市第一中学<br>信息技术社团文档"
+  name: "SYSYZ-ITCOM"
+  text: "文档中心"
   tagline: Shaoyang No. 1 Middle School Information Technology Club Document Library
   image:
     src: https://sysyz-itcom.github.io/img/docs.png
