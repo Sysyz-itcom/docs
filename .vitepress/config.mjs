@@ -8,7 +8,7 @@ export default defineConfig({
   themeConfig: {
     // 页脚
     footer: {
-      copyright: "Copyright © 2024 邵阳市第一中学信息技术社团"
+      copyright: "Copyright © 2025 邵阳市第一中学信息技术社团"
     },
     // 文章目录
     outlineTitle: "文章目录",
